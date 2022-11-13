@@ -1,4 +1,4 @@
-# VBA Homework: The VBA of Wall Street
+# VBA Project: The VBA of Wall Street
 
 ## Instructions
 
